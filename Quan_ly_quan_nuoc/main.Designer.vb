@@ -75,7 +75,7 @@ Partial Class main
         Me.TabControl1.Location = New System.Drawing.Point(0, 0)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
-        Me.TabControl1.Size = New System.Drawing.Size(690, 752)
+        Me.TabControl1.Size = New System.Drawing.Size(829, 752)
         Me.TabControl1.TabIndex = 0
         '
         'TabPage1
@@ -86,7 +86,7 @@ Partial Class main
         Me.TabPage1.Location = New System.Drawing.Point(4, 25)
         Me.TabPage1.Name = "TabPage1"
         Me.TabPage1.Padding = New System.Windows.Forms.Padding(7)
-        Me.TabPage1.Size = New System.Drawing.Size(682, 723)
+        Me.TabPage1.Size = New System.Drawing.Size(821, 723)
         Me.TabPage1.TabIndex = 0
         Me.TabPage1.Text = "Quản lý bàn"
         Me.TabPage1.UseVisualStyleBackColor = True
@@ -108,7 +108,7 @@ Partial Class main
         Me.dgvBan.Location = New System.Drawing.Point(7, 7)
         Me.dgvBan.Name = "dgvBan"
         Me.dgvBan.RowHeadersWidth = 51
-        Me.dgvBan.Size = New System.Drawing.Size(668, 311)
+        Me.dgvBan.Size = New System.Drawing.Size(807, 311)
         Me.dgvBan.TabIndex = 0
         '
         'TabPage4
@@ -119,14 +119,14 @@ Partial Class main
         Me.TabPage4.Location = New System.Drawing.Point(4, 25)
         Me.TabPage4.Name = "TabPage4"
         Me.TabPage4.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage4.Size = New System.Drawing.Size(682, 723)
+        Me.TabPage4.Size = New System.Drawing.Size(821, 723)
         Me.TabPage4.TabIndex = 3
         Me.TabPage4.Text = "Quản lý đồ uống"
         Me.TabPage4.UseVisualStyleBackColor = True
         '
         'btnXoadouong
         '
-        Me.btnXoadouong.Location = New System.Drawing.Point(475, 416)
+        Me.btnXoadouong.Location = New System.Drawing.Point(340, 563)
         Me.btnXoadouong.Name = "btnXoadouong"
         Me.btnXoadouong.Size = New System.Drawing.Size(133, 96)
         Me.btnXoadouong.TabIndex = 3
@@ -135,7 +135,7 @@ Partial Class main
         '
         'btnThemdouong
         '
-        Me.btnThemdouong.Location = New System.Drawing.Point(65, 416)
+        Me.btnThemdouong.Location = New System.Drawing.Point(340, 414)
         Me.btnThemdouong.Name = "btnThemdouong"
         Me.btnThemdouong.Size = New System.Drawing.Size(133, 96)
         Me.btnThemdouong.TabIndex = 1
@@ -149,7 +149,7 @@ Partial Class main
         Me.dgvquanlydouong.Name = "dgvquanlydouong"
         Me.dgvquanlydouong.RowHeadersWidth = 51
         Me.dgvquanlydouong.RowTemplate.Height = 24
-        Me.dgvquanlydouong.Size = New System.Drawing.Size(653, 323)
+        Me.dgvquanlydouong.Size = New System.Drawing.Size(800, 323)
         Me.dgvquanlydouong.TabIndex = 0
         '
         'TabPage2
@@ -169,7 +169,7 @@ Partial Class main
         Me.TabPage2.Location = New System.Drawing.Point(4, 25)
         Me.TabPage2.Name = "TabPage2"
         Me.TabPage2.Padding = New System.Windows.Forms.Padding(7)
-        Me.TabPage2.Size = New System.Drawing.Size(682, 723)
+        Me.TabPage2.Size = New System.Drawing.Size(821, 723)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "Gọi món"
         Me.TabPage2.UseVisualStyleBackColor = True
@@ -233,7 +233,7 @@ Partial Class main
         Me.dgvgoimon.Name = "dgvgoimon"
         Me.dgvgoimon.RowHeadersWidth = 51
         Me.dgvgoimon.RowTemplate.Height = 24
-        Me.dgvgoimon.Size = New System.Drawing.Size(610, 299)
+        Me.dgvgoimon.Size = New System.Drawing.Size(750, 299)
         Me.dgvgoimon.TabIndex = 4
         '
         'txtsoluong
@@ -286,30 +286,30 @@ Partial Class main
         Me.TabPage3.Location = New System.Drawing.Point(4, 25)
         Me.TabPage3.Name = "TabPage3"
         Me.TabPage3.Padding = New System.Windows.Forms.Padding(7)
-        Me.TabPage3.Size = New System.Drawing.Size(682, 723)
+        Me.TabPage3.Size = New System.Drawing.Size(821, 723)
         Me.TabPage3.TabIndex = 2
         Me.TabPage3.Text = "Thanh toán"
         Me.TabPage3.UseVisualStyleBackColor = True
         '
         'txtMaHD_TT
         '
-        Me.txtMaHD_TT.Location = New System.Drawing.Point(497, 45)
+        Me.txtMaHD_TT.Location = New System.Drawing.Point(579, 82)
         Me.txtMaHD_TT.Name = "txtMaHD_TT"
-        Me.txtMaHD_TT.Size = New System.Drawing.Size(84, 27)
+        Me.txtMaHD_TT.Size = New System.Drawing.Size(175, 27)
         Me.txtMaHD_TT.TabIndex = 8
         '
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(502, 19)
+        Me.Label7.Location = New System.Drawing.Point(575, 45)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(59, 20)
+        Me.Label7.Size = New System.Drawing.Size(179, 20)
         Me.Label7.TabIndex = 7
-        Me.Label7.Text = "Label7"
+        Me.Label7.Text = "Mã hóa đơn thanh toán"
         '
         'btnthoat
         '
-        Me.btnthoat.Location = New System.Drawing.Point(423, 512)
+        Me.btnthoat.Location = New System.Drawing.Point(329, 608)
         Me.btnthoat.Name = "btnthoat"
         Me.btnthoat.Size = New System.Drawing.Size(159, 82)
         Me.btnthoat.TabIndex = 6
@@ -318,7 +318,7 @@ Partial Class main
         '
         'btnthanhtoan
         '
-        Me.btnthanhtoan.Location = New System.Drawing.Point(69, 512)
+        Me.btnthanhtoan.Location = New System.Drawing.Point(329, 486)
         Me.btnthanhtoan.Name = "btnthanhtoan"
         Me.btnthanhtoan.Size = New System.Drawing.Size(159, 82)
         Me.btnthanhtoan.TabIndex = 5
@@ -332,7 +332,7 @@ Partial Class main
         Me.dgvthanhtoan.Name = "dgvthanhtoan"
         Me.dgvthanhtoan.RowHeadersWidth = 51
         Me.dgvthanhtoan.RowTemplate.Height = 24
-        Me.dgvthanhtoan.Size = New System.Drawing.Size(551, 279)
+        Me.dgvthanhtoan.Size = New System.Drawing.Size(713, 279)
         Me.dgvthanhtoan.TabIndex = 4
         '
         'txttongtien
@@ -386,7 +386,7 @@ Partial Class main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(690, 752)
+        Me.ClientSize = New System.Drawing.Size(829, 752)
         Me.Controls.Add(Me.TabControl1)
         Me.Name = "main"
         Me.Text = "Form1"
