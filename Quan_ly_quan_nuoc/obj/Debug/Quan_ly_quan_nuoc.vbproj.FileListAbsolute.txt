@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\obj\Debug\Quan_ly_quan_nuoc.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\obj\Debug\Quan_ly_quan_nuoc.main.resources
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\obj\Debug\Quan_ly_quan_nuoc.Resources.resources
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\obj\Debug\Quan_ly_quan_nuoc.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\obj\Debug\Quan_ly_quan_nuoc.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\bin\Debug\Quan_ly_quan_nuoc.exe.config
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\bin\Debug\Quan_ly_quan_nuoc.exe
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\bin\Debug\Quan_ly_quan_nuoc.pdb
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\bin\Debug\Quan_ly_quan_nuoc.xml
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\obj\Debug\Quan_ly_quan_nuoc.exe
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\obj\Debug\Quan_ly_quan_nuoc.xml
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\obj\Debug\Quan_ly_quan_nuoc.pdb
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\obj\Debug\Quan_ly_quan_nuoc.exe.config
+C:\Users\Admin\Desktop\Doanvb\Quan_ly_quan_nuoc\Quan_ly_quan_nuoc\obj\Debug\Quan_ly_quan_nuoc.login.resources
